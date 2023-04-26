@@ -1,4 +1,4 @@
-# Hello, my name is [ONUR SEVİNÇ](https://github.com/onursevinc-dev)
+# Hello, My name is [ONUR SEVİNÇ](https://github.com/onursevinc-dev)
 
 ## INFORMATION
 [![Web](https://img.shields.io/badge/Web-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://onursevinc.dev)
@@ -37,4 +37,28 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onursevinc-dev&show_icons=true&hide_border=true" />
+
+### 📈 GitHub İstatistiklerim:
+
+<p>
+  <a href="https://github.com/onursevinc-dev?tab=repositories">
+    <img alt="GitHub sayfam" title="GitHub sayfam" src="https://img.shields.io/badge/-GitHub%20Sayfam-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="[E-posta Adresiniz]">
+    <img alt="E-posta" title="E-posta" src="https://img.shields.io/badge/-E--posta-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<a href="https://github.com/onursevinc-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursevinc-dev&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/onursevinc-dev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=onursevinc-dev&show_icons=true&theme=dark&line_height=27" alt="onursevinc-dev'in GitHub İstatistikleri"/>
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onursevinc-dev&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat-square" alt="onursevinc-dev'in GitHub profilindeki ziyaretçi sayısı" /> </p>
+
 
