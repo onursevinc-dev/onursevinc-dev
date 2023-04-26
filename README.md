@@ -18,6 +18,12 @@
 ![PyCharm Professional](https://img.shields.io/badge/PyCharm%20Professional-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+![GoLand](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-008080?logo=OpenAI&logoColor=white&style=for-the-badge)
 
 
 ### FRONT-END SOFTWARE
