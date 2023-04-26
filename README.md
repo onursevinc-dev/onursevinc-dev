@@ -1,4 +1,4 @@
-# Merhaba, benim adım ONUR SEVİNÇ(https://github.com/onursevinc-dev)!
+# Merhaba, benim adım ONUR SEVİNÇ(https://github.com/onursevinc-dev)
 
 ## INFORMATION
 
