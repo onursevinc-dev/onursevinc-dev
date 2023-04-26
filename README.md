@@ -3,7 +3,7 @@
 ## INFORMATION
 
 - 📧 E-posta: [onursevinc.dev@gmail.com](mailto:onursevinc.dev@gmail.com)
-- 📱 Telefon: [+9-0541-513-53-04](tel:+9-0541-513-53-04)
+- 📱 Telefon: [+9-0541-513-53-04](tel:+90-541-513-53-04)
 - 💼 LinkedIn: [linkedin.com/in/kullanıcı_adınız/](https://www.linkedin.com/in/kullanıcı_adınız/)
 - 🌐 Kişisel Web Sitesi: [kullanıcıadınız.com](https://kullanıcıadınız.com/)
 - 📷 Instagram: [@kullanıcı_adınız](https://www.instagram.com/kullanıcı_adınız/)
