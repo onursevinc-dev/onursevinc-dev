@@ -43,4 +43,4 @@
 
 [![onursevinc-dev'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=onursevinc-dev&&show_icons=true&locale=tr&include_all_commits=true&count_private=true&theme=radical)](https://github.com/onursevinc-dev)
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=onursevinc-dev&show_icons=true&locale=tr&layout=compact&theme=radical)](https://github.com/onursevinc-dev)
+[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=onursevinc-dev&show_icons=true&locale=tr&langs_count=10&theme=radical)](https://github.com/onursevinc-dev)
