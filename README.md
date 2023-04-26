@@ -33,4 +33,9 @@
 
 ### Gömülü Yazılım
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Micropython](https://img.shields.io/badge/Micropython-305AAA?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
