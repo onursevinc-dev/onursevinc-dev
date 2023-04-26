@@ -1,7 +1,7 @@
 # Hello, my name is [ONUR SEVİNÇ](https://github.com/onursevinc-dev)
 
 ## INFORMATION
-[![Web](https://img.shields.io/badge/Web-00f9ff?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://onursevinc.dev)
+[![Web](https://img.shields.io/badge/Web-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://onursevinc.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onursevinc.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onursevinc-dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/onursevinc-dev/)
