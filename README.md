@@ -11,6 +11,15 @@
 
 ## TECHNOLOGIES
 
+### IDE'S
+
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
+![PyCharm Professional](https://img.shields.io/badge/PyCharm%20Professional-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+
+
 ### FRONT-END SOFTWARE
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -34,9 +43,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Micropython](https://img.shields.io/badge/Micropython-305AAA?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
+### DEVOPS
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ### STATISTICS
