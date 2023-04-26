@@ -3,12 +3,12 @@
 ## INFORMATION
 
 - 📧 E-posta: [onursevinc.dev@gmail.com](mailto:onursevinc.dev@gmail.com)
-- 📱 Telefon: [+90-541-513-5304](tel:+90-541-513-5304)
-- 💼 LinkedIn: [linkedin.com/in/kullanıcı_adınız/](https://www.linkedin.com/in/kullanıcı_adınız/)
-- 🌐 Kişisel Web Sitesi: [kullanıcıadınız.com](https://kullanıcıadınız.com/)
-- 📷 Instagram: [@kullanıcı_adınız](https://www.instagram.com/kullanıcı_adınız/)
-- 🐦 Twitter: [@kullanıcı_adınız](https://twitter.com/kullanıcı_adınız)
-- 📘 Facebook: [facebook.com/kullanıcı_adınız](https://www.facebook.com/kullanıcı_adınız)
+- 📱 Telefon: [+1-XXX-XXX-XXXX](tel:+1-XXX-XXX-XXXX)
+- 💼 LinkedIn: [linkedin.com/in/kullanıcı_adınız/](https://www.linkedin.com/in/onursevinc-dev/)
+- 🌐 Kişisel Web Sitesi: [kullanıcıadınız.com](https://onursevinc.dev/)
+- 📷 Instagram: [@kullanıcı_adınız](https://www.instagram.com/onursevinc-dev/)
+- 🐦 Twitter: [@kullanıcı_adınız](https://twitter.com/onursevinc-dev)
+- 📘 Facebook: [facebook.com/kullanıcı_adınız](https://www.facebook.com/onursevinc-dev)
 
 ## TECHNOLOGIES
 
