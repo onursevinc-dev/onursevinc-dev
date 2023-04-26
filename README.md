@@ -1,4 +1,4 @@
-# Merhaba, benim adım [ONUR SEVİNÇ](https://github.com/onursevinc-dev)
+# Hello, my name is [ONUR SEVİNÇ](https://github.com/onursevinc-dev)
 
 ## INFORMATION
 
@@ -9,6 +9,13 @@
 - [📷 Instagram](https://www.instagram.com/onursevinc-dev/)
 - [🐦 Twitter](https://twitter.com/onursevinc-dev)
 - [📘 Facebook](https://www.facebook.com/onursevinc-dev)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/username/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/username/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username/)
+
 
 ## TECHNOLOGIES
 
