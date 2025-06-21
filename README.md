@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/onursevinc-dev&count_bg=%237A4EF6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=onursevinc-dev&color=green)
 
 ![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onursevinc-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
